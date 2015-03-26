@@ -29,7 +29,7 @@
 using namespace std;
 
 
-/*11111111111111111111111111111111111111111111111111111111111111111111
+/*1111111111111111111111111111111111111111111111111111111111111111111188888888888888888
  *   Simlar like "Two Number" problem, we can have the simlar solution.
  *
  *   Suppose the input array is S[0..n-1], 3SUM can be solved in O(n^2) time on average by 
